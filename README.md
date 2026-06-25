@@ -1,7 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/khanrafiya)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Hey%20I'm%20Rafiya%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Hey,%20I%20am%20Rafiya%20Khan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20and%20ML%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <h3 align="center">A Passionate B.Tech CSE (AI & ML) Student from India 🇮🇳</h3>
