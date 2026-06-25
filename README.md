@@ -1,9 +1,11 @@
-<h1 align="center">Hi there 👋, I'm Rafiya Khan</h1>
-<h3 align="center">💻 B.Tech CSE (AI & ML) Student | 🤖 AI & ML Enthusiast | 🌐 Full-Stack Developer</h3>
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/khanrafiya)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Hey%20I'm%20Rafiya%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 </p>
+
+<h3 align="center">A Passionate B.Tech CSE (AI & ML) Student from India 🇮🇳</h3>
+<h4 align="center">CS Engineering</h4>
 
 ---
 
