@@ -46,11 +46,13 @@
 
 ### 📌 Featured Projects
 
-- 🏷️ **[Inventory Management System](https://github.com/khanrafiya/Inventory-management-system)** — JavaScript based inventory tracking solution
-- 🤖 **[RoboBot Assistant](https://github.com/khanrafiya/RoboBot-Assistant)** — A smart assistant bot project
+- 🌐 **[Network Management System](https://github.com/khanrafiya/Network-Management-System)** — JavaScript based network management tool
 - 🌾 **[Rural ERP](https://github.com/khanrafiya/Rural_ERP)** — TypeScript based ERP system for rural use-cases
-- 🐍 **[Snakerush](https://github.com/khanrafiya/Snakerush)** — Interactive Snake Game using HTML, CSS & JavaScript
 - 💼 **[Portfolio](https://github.com/khanrafiya/Rafiya_portfolio)** — My personal portfolio website
+- 🏷️ **[Inventory Management System](https://github.com/khanrafiya/Inventory-management-system)** — JavaScript based inventory tracking solution
+- 🏠 **[Home Planner](https://github.com/khanrafiya/Home_Planner)** — JavaScript based home planning tool (MIT Licensed)
+- 🤖 **[RoboBot Assistant](https://github.com/khanrafiya/RoboBot-Assistant)** — A smart assistant bot project
+- 🐍 **[Snakerush](https://github.com/khanrafiya/Snakerush)** — Interactive Snake Game using HTML, CSS & JavaScript
 
 ---
 
