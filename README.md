@@ -10,6 +10,7 @@
 ---
 
 ### 🚀 About Me
+
 - 🎓 Pursuing **B.Tech in Computer Science (AI & ML)**
 - 🤖 Passionate about **Artificial Intelligence & Machine Learning**
 - 🌐 Love building **full-stack web applications**
@@ -19,6 +20,7 @@
 ---
 
 ### 🌐 Connect with Me
+
 <p align="left">
 <a href="https://www.linkedin.com/in/rafiya-khan-871200359" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -61,12 +63,12 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanrafiya&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanrafiya&theme=radical" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=khanrafiya&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=khanrafiya&theme=radical" width="48%" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanrafiya&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khanrafiya&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
